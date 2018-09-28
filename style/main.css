@@ -1,0 +1,22 @@
+/* Format page */
+body {
+	font-size: : 300%;
+	background-color: teal;
+	color: white;
+}
+
+/* Insert space between sections */
+section {
+	padding: 20px;
+}
+
+h1 {
+	text-align: center;
+}
+
+/* Make images smaller and move to the side */
+img {
+	width: 10%;
+	margin: 10px;
+	float: left;
+}
